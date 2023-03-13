@@ -1,2 +1,2 @@
-# react-projects
-react related projects
+# portfolio-reactjs
+portfolio website using react
